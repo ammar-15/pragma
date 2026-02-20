@@ -16,6 +16,8 @@ This web application demonstrates how real-time movement tracking and quantitati
 
 Built to explore real-time capture, time-series analysis, and scalable motion data processing in a clean, web-based architecture.
 
+This project is merely for practice and will not be hosted.
+
 ## Demo Images
 
 ![alt text](image.png)
